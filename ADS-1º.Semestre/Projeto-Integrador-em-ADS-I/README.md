@@ -1,24 +1,29 @@
-# Projeto Integrador em Análise e Desenvolvimento de Sistemas I
+# Projeto Integrador em ADS I
 
-Este diretório destina-se à organização, armazenamento e documentação dos materiais desenvolvidos na disciplina **Projeto Integrador em Análise e Desenvolvimento de Sistemas I**, referente ao primeiro semestre do curso de Análise e Desenvolvimento de Sistemas (ADS) da FATEC.
+Este diretório reúne os trabalhos, documentos e atividades desenvolvidos na disciplina **Projeto Integrador em Análise e Desenvolvimento de Sistemas I**, do curso de Análise e Desenvolvimento de Sistemas (ADS) da Faculdade de Tecnologia de Lins — FATEC.
 
-## 📁 Organização dos arquivos
+## 📄 Trabalho disponível
 
-| Arquivo | Descrição |
-|---|---|
-| `Documento-de-Visao-e-Escopo-do-Projeto.pdf` | Documento que apresenta a visão geral do projeto, incluindo a descrição do problema, justificativa, objetivos, público-alvo, escopo, funcionalidades previstas, restrições e resultados esperados. |
+### 10. Tecnologias e Arquitetura
 
-## 🎯 Objetivo
+Documento referente à definição e apresentação da proposta de arquitetura tecnológica para o **Sistema Web para Gestão de Academia**, abordando as tecnologias previstas, a organização da arquitetura, frontend, backend, banco de dados, APIs, segurança, infraestrutura e possibilidades de evolução do sistema.
 
-Centralizar os documentos e entregas da disciplina, mantendo uma estrutura organizada que facilite o acompanhamento do desenvolvimento do Projeto Integrador, desde a concepção inicial até as próximas etapas.
+O trabalho apresenta uma proposta de arquitetura cliente-servidor, utilizando tecnologias como JavaScript, React.js, Node.js, Express.js e MySQL, além de abordar aspectos de segurança, modularização e futuras expansões.
 
-## 📚 Disciplina
+📎 **Arquivo:** `Trabalho_10_Tecnologias_e_Arquitetura_FATEC_ADS.pdf`
 
-- **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
-- **Instituição:** Faculdade de Tecnologia (FATEC)
-- **Semestre:** 1º Semestre
+## 🎯 Objetivo do diretório
+
+Organizar e armazenar os documentos acadêmicos referentes ao desenvolvimento do Projeto Integrador, mantendo o histórico das atividades, pesquisas, decisões tecnológicas e entregas realizadas durante a disciplina.
+
+## 🎓 Informações acadêmicas
+
+- **Instituição:** Faculdade de Tecnologia de Lins — FATEC Lins
+- **Curso:** Análise e Desenvolvimento de Sistemas
 - **Disciplina:** Projeto Integrador em ADS I
+- **Semestre:** 1º Semestre
+- **Projeto:** Sistema Web para Gestão de Academia
 
 ---
 
-*Repositório acadêmico destinado à documentação e ao acompanhamento da evolução do projeto.*
+Repositório destinado à documentação e ao acompanhamento da evolução acadêmica do Projeto Integrador.
